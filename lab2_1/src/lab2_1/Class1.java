@@ -8,5 +8,9 @@ final class Class1 {
 	public void first_method(){
 		
 	}
+	
+	public void second_method(){
+		
+	}
 }
 
